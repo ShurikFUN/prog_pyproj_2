@@ -21,15 +21,19 @@ repeat_time= 10
 hotkey = "m"
 
 #запускаем программу 
+
 To on simulation use: m
 
 #нажимаем горячую клавишу как только откроем нужное для нас окно
+
 Simulation starts working
 
 #клавиши нажимаются с интервалами
+
 abc
 
 #симуляция завершается
+
 Simulation is ended
 
 
