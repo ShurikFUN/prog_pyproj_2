@@ -10,9 +10,13 @@
 
 #задаем значения вручную в файле main
 keys = ["a", "b", "c"]
+
 interval = 5
+
 repeat_value= None
+
 repeat_time= 10
+
 hotkey = "m"
 
 #запускаем программу 
