@@ -1,0 +1,16 @@
+Сторонние библиотеки:
+
+pynput
+
+pyautogui
+
+playsound
+
+Файлы для работы(все есть в папке программы):
+
+hotkey_sound.mp3
+
+decorators.py
+
+Macros.py
+
