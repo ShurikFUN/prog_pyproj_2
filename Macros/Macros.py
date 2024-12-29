@@ -5,7 +5,7 @@ from pynput import keyboard
 import time
 import pyautogui  #использовал именно эту библиотеку, так как она может управлять как клавиатурой, так и мышью, что
                   #может оказаться полезным для дальнейшего развития проекта
-from pplaysound import playsound
+from playsound import playsound
 from exceptions import InvalidRepeatError, InvalidRepeatValueError, InvalidRepeatTimeError
 from decorators import validate_positive_int, validate_keys
 
